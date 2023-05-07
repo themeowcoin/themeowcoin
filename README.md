@@ -1,6 +1,7 @@
-### Hi there 👋
+### The real pumpy token gang on cardano is Here!....  $MEOWCOIN
 
-The real pumpy token gang on cardano is Here!....  $MEOWCOIN
+![frame](/frame.png)
+![meownomics](/meownomics.png)
 
 <!--
 **themeowcoin/themeowcoin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
